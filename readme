@@ -1,0 +1,3 @@
+This project adds support for various authentication methdos (basic authentication, token based authentication using SWT and SAML 1.1 / 2.0) to WebApi.
+
+In addition it is a sample how to claims-enable WebApi using WIF - including the claims transformation and authorization pipeline.
